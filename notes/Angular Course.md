@@ -1,0 +1,9 @@
+- # Course
+    - Intro
+        - Dependency Injection
+            - Allows us to share data and functionality between components
+            - Creating services
+                - provided and root shows a global 
+                - stateful service - data that is meant to be shared between components
+                    - stateless only shares methods
+                - 

@@ -1,0 +1,24 @@
+- # Sunday - Find lots of work
+- # To DO
+    - {{[[DONE]]}} Work on [[GeauxWeisbeck4.dev]]
+    - {{[[DONE]]}} [[Fireship.io]]
+    - {{[[DONE]]}} [[Roadmap.sh]]
+    - {{[[DONE]]}} [[MEAN Stack Developer]]
+- 
+- # Morning - 6:30 A.M.
+    - Plan out day
+    - Brief Journal writing
+    - Exercise
+    - Breakfast
+    - Meditation
+    - Have a good day
+- 
+- # Pomodoro Schedule 
+    - {{[[POMO]]: 25}} GeauxWeisbeck4.dev
+    - {{[[POMO]]: 25}} MEAN Stack Developer
+        - Hopefully got one done
+- 
+- 
+- # Evening 10:38 
+    - Going to do laundry, BRB
+    - 

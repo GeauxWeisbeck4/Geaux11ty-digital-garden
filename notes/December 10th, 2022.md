@@ -1,0 +1,31 @@
+- # To Do Today
+    - {{[[TODO]]}} [[Twilio Tutorials]]
+    - {{[[DONE]]}} [[GeauxWeisbeck4.dev]]
+    - {{[[TODO]]}} [[Tar Heel Dev Studio]]
+        - [[Next.js Notes]]
+    - {{[[TODO]]}} [[Mean Stack Developer Paid Newsletter]]
+        - {{[[TODO]]}} [[Refine.dev]]
+    - {{[[TODO]]}} [[MEAN Stack Developer]]
+    - {{[[TODO]]}} [[Pomodoro Timer]]
+    - {{[[TODO]]}} [[Sell Templates]]
+        - {{[[TODO]]}} [[Tailwind Templates]]
+        - {{[[TODO]]}} [[Notion Templates]]
+            - My 13 week goal book is a perfect outline
+        - {{[[TODO]]}} [[Website & Mobile App Templates]]
+    - {{[[TODO]]}} [[Singlestore Ecommerce App]]
+    - {{[[TODO]]}} [[Deno eBook]]
+    - {{[[TODO]]}} [[Create Framework]]
+    - {{[[TODO]]}} [[ChatGPT]]
+    - {{[[TODO]]}} [[LogRocket Tutorials]]
+    - {{[[DONE]]}} [[Jobs]]
+- # Pomodoro Timer
+    - {{[[POMO]]: 60}} GeauxWeisbeck4.dev 6th session
+        - Start
+            - First session done on Focus To-Do - good got done with most of home page and moving on to rest of site.
+- # Things I learned about
+    - [[Hotwire]] HTML over the wire
+        - by Basecamp
+- #react
+    - 10+ Best React Codebase Generators
+
+__- by Any_Extension_2610 on [r/react](https://www.reddit.com/r/react/comments/zgxuo1/10_best_react_codebase_generators/)__ (2 upvotes) #huskers

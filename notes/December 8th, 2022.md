@@ -1,0 +1,15 @@
+- __Go to Settings -> Readwise Random Quote and enter your token. Get your token [here](https://readwise.io/access_token).__
+- # What happened yesterday? Fuck...
+    - It all started with walking Lisa to work then next think you know I'm sucking the dick of a rainy ass storm. Magnolia even hated it.
+- # To Do Today
+    - {{[[TODO]]}} [[Twilio Tutorials]]
+    - {{[[TODO]]}} [[GeauxWeisbeck4.dev]]
+    - {{[[TODO]]}} [[Mean Stack Developer Paid Newsletter]]
+        - {{[[TODO]]}} [[Refine.dev]]
+    - {{[[TODO]]}} [[MEAN Stack Developer]]
+    - {{[[TODO]]}} [[Pomodoro Timer]]
+- # Articles, Docs, and other things to read
+    - [Introduction - OpenAI API](https://beta.openai.com/docs/introduction)
+        - Read docs and take notes then we'll builid 5 apps - learn more [[OpenAI]]
+        - [[ChatGPT]]
+- # Pomdoro Timer

@@ -1,0 +1,70 @@
+- # Monday - shiiiit.... 12/12/2022
+- ## Need to make like $300 to make rent - ideas?
+    - Crowd funding deal - Make T-Shirts and sell in my store.
+        - Etsy Store?
+    - Open Source Productivity Tool Suite
+        - Geaux Sprint System
+    - Tar Heel Dev Studio/GeauxWeisbeck4 Freelancing
+        - Email People
+    - Search Craigslist/Gigs/etc.
+    - Fiverr - create profile 
+    - Sell template on Notion
+- # To Do Today
+    - {{[[TODO]]}} [[Twilio Tutorials]] 
+    - {{[[DONE]]}} [[Content Calendar]]
+    - {{[[DONE]]}} Sign Lisa up for foodbank
+    - {{[[DONE]]}} [[GeauxWeisbeck4.dev]]
+    - {{[[TODO]]}} [[Tar Heel Dev Studio]]
+        - [[Next.js Notes]]
+        - [[Django Notes]]
+    - {{[[TODO]]}} [[Mean Stack Developer Paid Newsletter]]
+        - {{[[TODO]]}} [[Refine.dev]]
+    - {{[[TODO]]}} [[MEAN Stack Developer]]
+    - {{[[TODO]]}} [[Pomodoro Timer]]
+    - {{[[TODO]]}} [[Sell Templates]]
+        - {{[[TODO]]}} [[Tailwind Templates]]
+        - {{[[TODO]]}} [[Notion Templates]]
+            - My 13 week goal book is a perfect outline
+        - {{[[TODO]]}} [[Website & Mobile App Templates]]
+    - {{[[TODO]]}} [[Singlestore Ecommerce App]]
+    - {{[[TODO]]}} [[Deno eBook]]
+    - {{[[TODO]]}} [[Create Framework]]
+    - {{[[DONE]]}} [[ChatGPT]]
+    - {{[[DONE]]}} [[LogRocket Tutorials]]
+    - {{[[TODO]]}} [[Jobs]]
+    - {{[[TODO]]}} Projects
+- # Pomodoro Schedule
+    - {{[[POMO]]: 25}} Deploy GeauxWeisbeck4.dev
+        - It's finally here!
+- # Learned Today/Will Learn/Read/Etc:
+    - https://blog.openreplay.com/7-microservice-design-patterns-to-use/ #OpenReplay 
+    - https://blog.openreplay.com/data-visualization-and-business-intelligence-with-dash/ #OpenReplay 
+    - https://blog.openreplay.com/building-an-ecommerce-mobile-app-with-react-native-and-woocommerce/ #OpenReplay 
+    - https://blog.openreplay.com/using-material-ui-with-react/ #OpenReplay 
+    - https://blog.openreplay.com/building-an-ecommerce-app-with-keystone/ #OpenReplay 
+    - https://blog.openreplay.com/sending-emails-from-react-with-emailjs/ #OpenReplay 
+    - https://blog.openreplay.com/build-and-deploy-jamstack-applications-with-cloudflare-pages/ #OpenReplay 
+    - https://blog.openreplay.com/full-text-search-in-react-with-algolia-and-firestore/ #OpenReplay 
+    - https://blog.openreplay.com/data-visualization-with-google-charts/ #OpenReplay 
+    - https://blog.openreplay.com/mutations-and-caching-with-redux-toolkit-query/ #OpenReplay 
+    - https://blog.openreplay.com/user-registration-and-login-with-react-and-axios/ #OpenReplay 
+    - https://blog.openreplay.com/css-in-js-solutions-for-react-linaria-vs-styled-components/ #OpenReplay 
+    - https://blog.openreplay.com/front-end-monitoring-with-sentryio-and-react/ #OpenReplay 
+    - https://blog.openreplay.com/implementing-your-first-end-to-end-tests-in-react-using-cypress/ #OpenReplay 
+    - https://blog.openreplay.com/implementing-3d-graphics-in-react/ #OpenReplay 
+    - https://blog.openreplay.com/a-complete-guide-to-nextjs-plus-mongodb/ #OpenReplay 
+    - https://blog.openreplay.com/working-with-databases-in-next-js-using-prisma/ #OpenReplay 
+    - https://blog.openreplay.com/creating-a-design-system-with-radix/ #OpenReplay 
+    - https://blog.openreplay.com/start-with-ultra-the-new-react-web-framework/ #OpenReplay 
+    - https://blog.openreplay.com/build-a-mdx-powered-blog-with-contentlayer-and-next/ #OpenReplay 
+- Other than blog open replay
+    - [RedwoodJS: The Tutorial | RedwoodJS Docs](https://redwoodjs.com/docs/tutorial/foreword)
+    - [React for Beginners – A React.js Handbook for Front End Developers (freecodecamp.org)](https://www.freecodecamp.org/news/react-beginner-handbook)
+    - [https://www.momtestbook.com](https://www.momtestbook.com/)
+- # Tools to try
+    - ## Aphrodite
+        - https://github.com/Khan/aphrodite
+    - ## Bumbag
+        - https://www.bumbag.style/
+    - Windmill UI React
+    - 

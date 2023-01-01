@@ -1,0 +1,6 @@
+- Keeping track of all the jobs I've applied for here
+    - [[Kantar - Entry Level Developer]]
+    - [[Stellar Consulting Solutions LLC]]
+    - [[SJ Technologies - Full Stack Developer II]]
+    - [Writers Looking For A Steady Reliable Income - Career Page (applytojob.com)](https://ampifire.applytojob.com/apply/Rlx0WjFAEA)
+    - 

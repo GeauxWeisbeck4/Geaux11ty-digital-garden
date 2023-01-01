@@ -1,0 +1,10 @@
+- ## Callbacks
+    - [01:36] The reason that worked is because the parameter that we passed in was our callback. That's the great mystery of callbacks. All that a callback is is a parameter to a function that happens to be a function itself. When we passed in that parameter, and then executed that as a function, it ran, because it was a function.
+    - [02:02] The big question is, "Why would you do that?" The reason is it's how Node gets it's asynchronous operation, because when this executes, regardless of the status of that callback, the start function is going to return, which means Node is available to take another request.
+    - [02:20] It might be a little hard to imagine since the function that we passed to start just wrote out to the console, but if you imagine a different function that was parsing a large file or making an http request that was not responding quickly, you could see where that would cause your start process to hang and be nonresponsive while it was waiting for that to return if you didn't use callbacks.
+    - # understanding process 
+        - tick.js runs through and calles the second console.log first 
+    - # modules
+        - How to include them 
+            - `require(./function.js)`
+        - var colors = require('colors')

@@ -1,0 +1,14 @@
+- # Monday 12/26/2022 01:50AM
+    - It's been a great Christmas y'all. 
+- # To Do Today
+    - {{[[DONE]]}} Start writing Book
+    - {{[[DONE]]}} [[Project Research]]
+    - {{[[DONE]]}} [[Coding with Louis]]
+    - {{[[TODO]]}} [[Digital Garden]]
+        - {{[[TODO]]}} [[Architect an Extensible Digital Garden with Next.js, Tailwind, and NX]]
+        - {{[[DONE]]}} Clean up Logseq and Roam - Deploy DG
+        - {{[[TODO]]}} Go to store
+- # Resources
+    - [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
+    - Docker Wasm
+    - 

@@ -1,0 +1,52 @@
+/* Containers: body, container, box, main, header, content */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Inter, "Segoe UI", Roboto, Oxygen, Cantarell, "Open Sans", "Helvetica Neue", Ubuntu, sans-serif;
+    min-height: 450px;
+    counter-reset: sidenote-counter;
+}
+
+.box {
+    position: absolute;
+    top: 0px;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Phrasing Style: H1, H2, H3, H4, H5, H6, P, A, UL, LI */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #555555;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+a,
+p,
+ul,
+li,
+ol,
+table,
+span,
+blockquote {
+    color: #555555;
+}
+
+p,
+ul,
+li,
+ol {
+    font-size: 18px;
+}

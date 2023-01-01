@@ -1,0 +1,18 @@
+- # Plan for Content
+- ## December 2, 2022
+    - MEAN Stack Developer - Paid and New Unpaid
+    - Medium
+    - Dev.to
+    - Hashnode
+    - Personal Blogs
+        - Also need to work on notes and Digital Garden
+- # December 11, 2022
+- # December 18, 2022
+    - How to make a blog with Lume - #Tealfeed
+        - Writing this in Notion 
+        - Add to Taskade
+        - 13 Week Template lay out too
+        - Add to #Medium 
+    - Medium, Dev.to, Hashnode - https://www.infoq.com/articles/ebay-marko-performance-reactivity-model/?itm_source=articles_about_javascript&itm_medium=link&itm_campaign=javascript
+    - Enhance - https://www.infoq.com/news/2022/12/enhance-begin-html-first-apps/
+- 

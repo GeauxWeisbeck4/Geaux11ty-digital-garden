@@ -1,0 +1,8 @@
+- on [[December 10th, 2022]] you used [[Similar Pages extension]] to link 30 Days of Projects to [[Random Quote Generator]]
+- I am going to create a project every day through the end of the year for Christmas! The advent Calendar of projects... sorta.
+- Here is what I have made so far:
+    - Day 1: [[Random Quote Generator]]
+    - Day 2: [[Flask-Journal-Api]]
+    - Day 3: [[Spotify Music Player]]
+    - Day 4: [[Pomodoro Timer]]
+    - 

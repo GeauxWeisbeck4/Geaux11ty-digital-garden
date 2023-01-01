@@ -1,0 +1,14 @@
+- # Notes and Guides for Next.js
+    - ## Table of Contents
+        - i. [[Build a Next.js Site from Scratch]]
+        - ii. [[Documentation]]
+        - iii. [[Awesome Next.js]]
+        - iv. [[Next.js Learning Quiz]]
+        - v. [[API Reference]]
+        - vi. [[Next.js Beginner Patterns Course]]
+        - vii. [[Architect an Extensible Digital Garden with Next.js, Tailwind, and NX]]
+            - xxx. Notes and other Next.js Stuff
+        - viii. [[Data Fetching]]
+        - ix. [[Next.js SEO]]
+        - 
+- 

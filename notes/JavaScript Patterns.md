@@ -1,0 +1,6 @@
+- # Design Patterns
+    - ## Module Pattern
+        - Encapsulation, reusability 
+        - https://javascriptpatterns.vercel.app/patterns/design-patterns/module-pattern
+        - Split code to be reused in other js files
+        - 

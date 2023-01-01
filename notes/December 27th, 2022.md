@@ -1,0 +1,11 @@
+- # Tuesday 12/27/2022
+    - Well I had some notes saved here but I must've lost em somehow. Oh well it was a fucked up day.
+    - They filed the writ for posession.
+    - The sheriff will randomly show up in the next 5 days.
+    - We have no where to go.
+    - Not enough money to move anywhere.
+    - They said they were doing it for our own good.
+    - Fuck sterlingcuntwood
+    - I hate these mother fuckers
+    - GAAAHAHHHH
+- # I did get JavaScript/Jquery book yay!

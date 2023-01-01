@@ -1,0 +1,16 @@
+- # Welcome to Geaux-Notes! 
+    - ## This is a digital garden created by Andrew Weisbeck
+        - ### My Daily Workflow, Schedule, Goals, and More
+        - ### Website Notes
+            - [[GeauxWeisbeck4.dev]]
+            - [[Tar Heel Dev Studio]]
+            - AndrewWeisbeck.tech
+            - [[Random Quote Generator]]
+            - [[Flask-Journal-Api]]
+        - ### Web Dev Notes
+            - [[JavaScript Notes Guide]], [[JavaScript Beginner Notes]]
+            - [[Rust Notes]]
+            - [[Deno Notes]], [[Deno Slack Next-Gen Platform]], [[Deno eBook]]
+            - [[Python Notes]]
+            - [[React Notes]], [[Next.js Notes]], [[Awesome Next.js]], [[Build a Next.js Site from Scratch]]
+            - 

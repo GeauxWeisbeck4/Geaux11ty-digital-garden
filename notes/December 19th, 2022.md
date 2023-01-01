@@ -1,0 +1,21 @@
+- # Monday 12/19/2022
+    - Well here we are - the day of my big interview. I need to focus and nail down this interview. Get familiar with the MEAN stack and really deep into Angular. I think I will be ok - let's do it!
+- # To Do Today
+    - {{[[DONE]]}} [[Firebase.io Angular Project]]
+    - {{[[DONE]]}} [[Mean Stack Developer Paid Newsletter]]
+        - Plan it out 
+    - {{[[DONE]]}} [[MEAN Notes]]
+        - Mean Notes Research
+    - {{[[DONE]]}} Rent Fundraiser
+        - Might not need this now
+    - {{[[DONE]]}} [[Tar Heel Dev Studio]]
+    - {{[[DONE]]}} [[Svelte Notes]]
+- # Awesome Resources
+    - https://xpressioncamera.com/
+    - https://httpster.net/
+    - [UI Garage - Daily UI Inspiration & Patterns for Web, Mobile & Tablet.](https://uigarage.net/)
+    - 
+- # Awesome Websites
+    - [Observability Data Pipeline & Log Analysis Solutions | Mezmo](https://www.mezmo.com/)
+    - 
+    - 

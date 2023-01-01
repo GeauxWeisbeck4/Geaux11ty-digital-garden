@@ -1,0 +1,30 @@
+- # Ok moving on to the next day... It's been a busy ass few days
+    - Got that money for the job though ;) gonna be able to pay rent next week though! Wooot woot!
+    - Life is good right now - blog post incoming.
+    - Keep appreciating everything you have Andrew - you have such a great life. You have the privilege of being really rich and then really fucking poor. This experience will be useful every day, forever.
+- # To Do Today
+    - {{[[TODO]]}} [[GeauxWeisbeck4.dev]]
+        - {{[[TODO]]}} Blog Post
+        - {{[[TODO]]}} Finish Homepage
+        - {{[[TODO]]}} Finish About
+        - {{[[TODO]]}} Projects
+    - {{[[TODO]]}} Flask Journal API
+    - {{[[TODO]]}} [[Monetize Shit]]
+    - {{[[TODO]]}} [[Digital garden]]
+    - {{[[TODO]]}} AndrewWeisbeck.tech
+    - {{[[TODO]]}}  [[Mean Stack Developer Paid Newsletter]]
+    - {{[[TODO]]}} Do a project every day for 30 days
+    - {{[[TODO]]}} Content Calendar
+    - {{[[DONE]]}} Add Lisa to Notion
+    - {{[[TODO]]}} [[Framer]]
+    - {{[[TODO]]}} [[Twilio]]
+    - 
+- # Perspective
+    - Life is good no matter what. Never give up on yourself either. You have secret skills like attracting stupid scammers.
+- # [[30 Days of Projects]]
+    - Day 3: [[Spotify Music Player]]
+    - ## 12 Days of Christmas - think of Advent Site to make
+- # Pomodoro Schedule
+- {{[[POMO]]: 120}} GeauxWeisbeck4.dev
+    - We're finally here - to end it all! Let's finish this bad boy up
+    - 

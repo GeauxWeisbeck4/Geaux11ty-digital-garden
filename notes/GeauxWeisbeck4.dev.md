@@ -1,0 +1,16 @@
+- # Site Development
+    - Aleph.js + Deno
+    - Picking up from Macbook
+    - Layout
+    - Schema
+- # Lume
+    - Start from scratch - like Eleventy
+    - We're making progress
+    - Blow through it today
+- ## To DO
+    - {{[[TODO]]}} Projects
+    - {{[[TODO]]}} Blog
+    - {{[[TODO]]}} Resources
+    - {{[[TODO]]}} 
+- I don't know why this has seemed to take me so long to make this fucking website. I need to just stick my nose to the grindstone and get this done and over with. I'm holding myself back by being picky and judging my work at every second.
+- I will try my best to finish in this 90 minute time frame - that would be killer.

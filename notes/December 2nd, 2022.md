@@ -1,0 +1,46 @@
+- {{[[DONE]]}} Complete this todo
+- {{[[DONE]]}} [[GeauxWeisbeck4.dev]]
+- {{[[DONE]]}} Apply for [[Jobs]]
+- {{[[TODO]]}} [[Design Systems]]
+- {{[[DONE]]}} [[Tar Heel Dev Studio]]
+- {{[[TODO]]}} [[Mean Stack Developer Paid Newsletter]]
+- {{[[TODO]]}} [[MEAN Stack Developer]]
+- {{[[TODO]]}} [[Digital garden]]
+- # Pomodoro Schedule
+    - {{[[POMO]]: 60}} GeauxWeisbeck4.dev
+        - {{[[TODO]]}} Finish main page
+        - {{[[TODO]]}} Get all pages rendered
+        - {{[[TODO]]}} Add Netlify CMS
+        - I really didn't do much dev on this first 60 minutes. I did find a new IDE Nova - cool.
+    - {{[[POMO]]: 90}} GeauxWeisbeck4.dev
+        - Wow I totally wasted a bunch of time on this again haha. There's 36 minutes left and I'm kinda just getting back to working on this. To be fair, I'm really dope sick. I also can't get VS Code to cooperate so I'm going to restart the computer before this finishes. Hey this is a stateful component! HAHAHA
+        - Fuck I'm funny. Ok I'll be back.
+
+        - Ok it's on break... weird.
+    - {{[[POMO]]: 120}} GeauxWeisbeck4.dev
+        - This one has to be it - I should also be able to get a couple other sites done - maybe. I'm very easily distracted it turns out. ADHD dammit.
+        - Let's go! 22:24 [[December 2nd, 2022]]
+        - It's officially on. I need to start planning my digital garden, JS Notes and all that good stuff. But for now, let's get this site fucking done!
+    - {{[[POMO]]: 25}} Digital Garden
+        - {{[[TODO]]}} Terr
+- 
+- # Summary for Friday, 12/2/22
+    - While I did get a lot of good things done today, overall it was quite a shitty day. I was sick for most of the day because I went 30 hours without using and it sucked. But I did make considerable progress in my job applications and in procrastinating everything else. Haha just joking.
+    - ## 3 things I must do tomorrow
+        - 1. Finish GeauxWeisbeck4.dev
+        - 2. Email potential local clients
+        - 3. Paid Newsletter and new newsletter
+    - ## 3 things I learned today
+        - 1. How to make a crate in Rust
+        - 2. How to make a quote generator
+        - 3. A new IDE Nova
+    - ## 3 things I like about myself
+        - 1. I'm really fucking smart
+        - 2. I'm really caring
+        - 3. I'm funny
+    - ## 3 things I'm grateful for
+        - 1. Lisa - seriously so grateful <3
+        - 2. The pets - yes even May May
+        - 3. Having a place to live
+- 
+- Tomorrow is already here (literally it's 3:45 am), but it's a new day. I'm going to be better than I was on this day, because everyday is a new opportunity to grow and learn. I fucking love learning.

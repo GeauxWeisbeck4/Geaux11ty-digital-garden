@@ -1,0 +1,18 @@
+- # Monday morning... starting really early 01:37AM
+    - I'm ready to go because I slept from 6AM to 4:30PM. So I'm not tired at all. I've got to get my website done first and then keep working on shit and applying for jobs. 
+    - Today is gonna be a good day - I hope to start it off with some sex.
+- # To Do Today
+    - {{[[DONE]]}} [[GeauxWeisbeck4.dev]]
+        - {{[[DONE]]}} Projects section on homepage
+    - {{[[TODO]]}} [[Monetize Shit]]
+    - {{[[TODO]]}} [[Digital garden]]
+    - {{[[TODO]]}} AndrewWeisbeck.tech
+    - {{[[TODO]]}}  [[Mean Stack Developer Paid Newsletter]]
+    - {{[[TODO]]}} Do a project every day for 30 days
+- # Pomodoro Timer
+    - {{[[POMO]]: 60}} GeauxWeisbeck4.dev 
+        - {{[[TODO]]}} Finish Homepage 
+        - {{[[TODO]]}} Finish About Page
+        - {{[[TODO]]}} Finish Projects Page
+        - {{[[TODO]]}} Add Skills to Homepage
+        - 

@@ -1,0 +1,7 @@
+- # Table of Contents
+    - ## [[Next.js Beginner Patterns Course]]
+        - [[Next.js Notes]]
+    - ## [[Architect an Extensible Digital Garden with Next.js, Tailwind, and NX]]
+        - [[Next.js Notes]]
+        - [[Awesome Next.js]]
+        - 

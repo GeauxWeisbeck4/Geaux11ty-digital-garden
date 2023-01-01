@@ -1,0 +1,33 @@
+- {{[[kanban]]}} Kanban Board
+    - Planning
+        - Plan Deno Book
+            - {{[[TODO]]}} Create outline
+            - {{[[TODO]]}} Book Title
+            - {{[[TODO]]}} Research writing dev book
+            - {{[[TODO]]}} Research Contacts
+            - {{[[TODO]]}} Start Writing!
+        - Make Notes app
+        - Find Job
+        - Get in a routine
+    - To Do
+        - Find Freelance customers
+        - Roadmap.sh
+        - Learn Rust
+    - In Progress
+        - [[JavaScript Beginner Notes]]
+        - GeauxWeisbeck4.dev
+            - {{[[TODO]]}} Started with Aleph.js
+            - {{[[TODO]]}} Finish site
+            - {{[[TODO]]}} Make Lume Site
+                - What should it be?
+        - [[Python Notes]]
+        - [[PostgreSQL Notes]]
+        - [[Rust Notes]]
+        - [[Deno Notes]]
+    - Done
+        - Create Kanban
+        - [[Fireship.io]]
+            - {{[[DONE]]}} Advanced JavaScript
+            - {{[[DONE]]}} Stripe Class
+            - {{[[DONE]]}} Supabase
+            - {{[[DONE]]}} Angular

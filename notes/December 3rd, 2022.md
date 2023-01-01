@@ -1,0 +1,83 @@
+- # Saturday - CFB Championship Weekend
+    - I am going to find some games to gamble on and hopefully I can find some money from somewhere to lay down on the games. I can totally win some big bucks today. Like last year - lol last year I totally blew my money on the games and messed them up bad on conference championship weekend. Baylor killed me and then like some Middle USA team fucked me out of nowhere.
+    - I need to start writing more about college football. I need to start putting out more content period, but especially about things I love. I am going to start that habit with this Roam app and my digital garden
+    - So for my other blogs today, I need to write on my Deno blog, Medium, Dev.to, Hashnode, and especially need to do my newsletter. I think the Deno blog will be good to talk about making this website, Medium I can talk about Digital Gardens, Dev.to will continue my React thing, and Hashnode I'll start a series or something. 
+- # ToDo
+- {{[[DONE]]}} [[GeauxWeisbeck4.dev]]
+- {{[[DONE]]}} [[Design Systems]]
+- {{[[DONE]]}} [[Tar Heel Dev Studio]]
+- {{[[DONE]]}} [[Mean Stack Developer Paid Newsletter]]
+    - {{[[DONE]]}} [[Enhance.dev]]
+    - {{[[TODO]]}} [[Refine.dev]]
+    - 
+- {{[[DONE]]}} [[MEAN Stack Developer]]
+- {{[[TODO]]}} [[Digital garden]]
+- {{[[DONE]]}} [[Jobs]]
+- {{[[TODO]]}} [[Email Marketing]]
+- {{[[DONE]]}} [[JavaScript Beginner Notes]]
+- {{[[TODO]]}} [[JavaScript Notes Guide]]
+- {{[[TODO]]}}  Learn Vue 
+    - [[Vue Notes Guide]]
+    - [[Ionic]]
+- # Pomodoro Schedule
+- {{[[POMO]]: 120}} GeauxWeisbeck4.dev
+    - {{[[TODO]]}} Finish it
+    - {{[[DONE]]}} Write about it
+    - {{[[TODO]]}} Kaption
+- So naturally I got distracted. But I did make a few big move on the design. The home page looks much better as I brought over the remnants of 
+- Ok coming back to attempt finishing my website - I got to finish MEAN Stack as well so start planning that out
+- {{[[POMO]]: 120}} Organize my shit
+- {{[[POMO]]: 60}} GeauxWeisbeck4.dev Deep Focus
+    - {{[[TODO]]}} Blog Posts
+    - {{[[TODO]]}} Home
+    - {{[[TODO]]}} About
+    - {{[[TODO]]}} Projects
+    - {{[[TODO]]}} To Do List
+    - {{[[TODO]]}} Contact Form
+    - {{[[TODO]]}} Resources
+- ## Try out later
+    - Rive
+    - Qwik + Builder.io
+        - What's this about resumeability?
+        - Lazy Loading
+        - HTML elements
+        - Zero JS loaded into components
+    - JavaScript Algorithms
+    - Fireship.io 7 Tools
+    - Bundlephobia
+        - Cloud Craft
+        - Font Flipper
+        - Vizbug
+        - Insomnia
+        - Flare - 2D Vector animations
+    - 7 Full Stack App Ideas (Use APIs to come up with app ideas)
+        - 1. News Aggregator - Archives headlines from CNN and FoxNews every 15 minutes. 
+            - Schedule pull every 15 minutes with PubSub Cloud Function
+            - Use Pupeteer to scrape content and take screenshots
+            - Cloud storage in firebase
+            - Have calendar to navigate to any days
+        - 2. Data Driven - Prediction Use Kaggle to make ML to predict outcome of March Madness
+            - Upload to Data Warehouse
+            - Visualize in datalab and put in a Jupyter notebook
+        - 3. ASCII Images - Native mobile app. 
+            - Take a photo and use ascii to make it into art
+            - convert pixel value to ascii 
+            - sell premium filters in the app 
+        - 4. Google Maps MMO - Realtime Games
+            - Geoguesser - reverse engineer it
+            - Have a version that has a timer
+            - integrate google maps 
+            - connect users in fire base 
+            - update the game state with cloud storage
+        - 5. Anonymous Texting with Twilio
+            - Send SMS texts anonymously to users within close proximity
+            - Firebase authentication deploy twilio number for them to talk
+            - when they aren't within geo located close to each other
+        - 6. Cloud Calculator
+            - Run a survey about cloud costs then returns price optimizations
+            - Find the cheapest cloud
+            - Generating consulting leads
+        - 7. Slack Video Chat (Video Streaming)
+            - Record videos clips via slack then combine results into a single meeting
+- # Signing Off
+    - Today was a lot. It felt busy and also wasn't at the same time. But it was a fun and real day. Thanks for sharing it with me reader people.

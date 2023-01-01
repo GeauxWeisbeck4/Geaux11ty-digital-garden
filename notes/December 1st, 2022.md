@@ -1,0 +1,20 @@
+- {{[[DONE]]}} [[GeauxWeisbeck4.dev]]
+    - Use Lume for now while I work on Aleph.js
+- {{[[DONE]]}} AndrewWeisbeck.tech
+- {{[[TODO]]}} [[Email Marketing]]
+- {{[[TODO]]}} [[Mean Stack Developer Paid Newsletter]]
+- {{[[TODO]]}} [[MEAN Stack Developer]]
+    - Paid Newsletter Practice
+    - This weeks newsletter
+- {{[[TODO]]}} [[Rust Notes]]
+- {{[[DONE]]}} [[Deno Notes]]
+- {{[[DONE]]}} [[JavaScript Beginner Notes]]
+- {{[[DONE]]}}  [[React Notes]] 
+- 
+- 
+- {{[[POMO]]: 25}} GeauxWeisbeck4.dev
+- {{[[POMO]]: 25}} [[JavaScript Beginner Notes]]
+- {{[[POMO]]: 25}} GeauxWeisbeck4.dev
+- break
+- {{[[POMO]]: 25}} GeauxWeisbeck4.dev
+- 

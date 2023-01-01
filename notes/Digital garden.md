@@ -1,0 +1,14 @@
+- # My Digital Garden
+    - Start Tagging Notes
+- ## Topics
+    - Web Dev
+    - JavaScript
+    - Deno
+    - Life
+    - Projects
+- ## Theme
+    - Develop a cool theme to host digital garden
+- Need to be consistent with content
+- [[Digital Garden 120222]]
+- 
+- Tags: #DigitalGarden #writing #webdev 

@@ -1,0 +1,44 @@
+- # Sunday Funday - 12/11/2022
+- Quote - "The test of good manners is to be patient with the bad ones". Solomon Ibn Gabirol
+- # To Do Today
+    - {{[[TODO]]}} [[Twilio Tutorials]]
+    - {{[[TODO]]}} [[Content Calendar]]
+    - {{[[TODO]]}} Sign Lisa up for foodbank
+    - {{[[DONE]]}} [[GeauxWeisbeck4.dev]]
+    - {{[[TODO]]}} [[Tar Heel Dev Studio]]
+        - [[Next.js Notes]]
+    - {{[[TODO]]}} [[Mean Stack Developer Paid Newsletter]]
+        - {{[[TODO]]}} [[Refine.dev]]
+    - {{[[TODO]]}} [[MEAN Stack Developer]]
+    - {{[[TODO]]}} [[Pomodoro Timer]]
+    - {{[[TODO]]}} [[Sell Templates]]
+        - {{[[TODO]]}} [[Tailwind Templates]]
+        - {{[[TODO]]}} [[Notion Templates]]
+            - My 13 week goal book is a perfect outline
+        - {{[[TODO]]}} [[Website & Mobile App Templates]]
+    - {{[[TODO]]}} [[Singlestore Ecommerce App]]
+    - {{[[TODO]]}} [[Deno eBook]]
+    - {{[[TODO]]}} [[Create Framework]]
+    - {{[[TODO]]}} [[ChatGPT]]
+    - {{[[TODO]]}} [[LogRocket Tutorials]]
+    - {{[[DONE]]}} [[Jobs]]
+- # Quick Notes
+    - Next.js Course?
+- # Habit Tracker
+    - ## Morning
+        - {{[[TODO]]}}  Plan Day
+        - {{[[TODO]]}} Read Book/Online ~30 Minutes
+        - {{[[TODO]]}} Focus Mode Coding 1 Hour
+    - ## Rest of Day
+        - {{[[TODO]]}} 1 Hour Study JavaScript
+        - {{[[TODO]]}} Quick Project
+        - {{[[TODO]]}} Content Calendar
+    - ## By Evening Time
+        - {{[[TODO]]}} Exercise
+        - {{[[TODO]]}} One commit to GitHub
+        - {{[[TODO]]}} Meditation
+- # Tools to Use, Things to Read
+    - Loom
+    - front-commerce
+    - https://www.infoq.com/articles/ebay-marko-performance-reactivity-model/?itm_source=articles_about_javascript&itm_medium=link&itm_campaign=javascript
+    - 

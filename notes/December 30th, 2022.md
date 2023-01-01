@@ -1,0 +1,13 @@
+- # Friday, 12/30/2022
+    - So I found out the apartment was lying - surprise surprise. We have a little time to get our shit together and need to figure out where we're going to live asap. I need to try and get some monies going over the weekend. Maybe get a good parlay going?
+    - I am going to work on my digital garden - it's a priority
+- # ToDo Today
+    - {{[[TODO]]}} [[Digital Garden]]
+    - {{[[DONE]]}} [[Tar Heel Dev Studio]]
+    - {{[[TODO]]}} [[Content Calendar]]
+    - {{[[TODO]]}} [[JavaScript Book]]
+    - {{[[DONE]]}} [[Next.js Notes]]
+    - {{[[DONE]]}} [[Book DB]]
+    - {{[[DONE]]}} [[Duck DB]]
+- # Resources, Readings, and Links
+- 

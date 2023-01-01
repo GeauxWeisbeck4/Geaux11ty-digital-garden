@@ -1,0 +1,75 @@
+- ## Top 12 Skills for ReactJS Developer
+    - The skillset of ReactJS developers should boast both technical as well as soft skills. Technical skills help them to perform the core duty of development, whereas soft skills help them perform better in a corporate setup.
+    - Let’s learn the technical as well as soft skills one by one.
+- ## Technical Skills
+    - Following are the technical skills every ReactJS developer should have:
+- ### **1. HTML + CSS**
+    - Every ReactJS developer should have a firm grasp of developing well-crafted user interfaces and user experiences using HTML code and CSS scripts for websites and web applications. React developers should have the following skills in terms of HTML and CSS:
+        - Coding semantic HTML tags and CSS selectors and using them.
+        - Deploying a CSS reset.
+        - Understanding of the box model and how to reset the border-box.
+        - Deep understanding of flexbox.
+        - Knowledge of the principles to deploy responsive web designs.
+        - Properly using media queries in app projects.
+- ### 2. JSX
+    - However, in React, you never really work solely on HTML. in fact, you work with a syntax extension (known as JSX) that is one of the remarkable parts of the React ecosystem.
+    - You may think of JSX as HTML-flavored JavaScript since it looks so much like HTML. Using JSX, you can work with it if you know HTML and CSS because you intuitively know how to do so.
+    - JSX is basically an abstraction on top of React.createElement() API. We can embed HTML elements in JavaScript and place them in the DOM without using createElement() or appendChild(). With JSX, we can write React applications without having to convert HTML tags into JavaScript objects.
+- ### 3. JavaScript Fundamentals + ES6
+    - The ReactJS developers must have a firm grasp of the fundamental concepts that JavaScript provides in order to rock React; in addition, ES6 skills are also essential. A React developer should have a sound understanding of the following:
+- ### **Function Declarations and Arrow Functions**
+    - React applications are built using components. And these React components are composed of JS functions and classes.
+    - The JavaScript functions can be written in two different ways: either using the “function” keyword (aka, function declarations) or as an arrow function, which was introduced in ES6.
+    - In React, function declarations and arrow functions are employed to build function components.
+    - The greatest advantage of arrow functions is their conciseness. We can utilize several shorthands in order to write our functions so that we can remove excess boilerplate, resulting in a single-line function declaration.
+    - On the other hand, using function declarations rather than arrow functions allows you to bypass problems with hoisting. Because of JavaScript’s hoisting behavior, you can use multiple function declarations to create function components and put them in any order you prefer in a single file.
+- ### **DOM and Event Handling**
+    - It is uncommon to manipulate the actual DOM elements in React. Remember that we now have the JSX abstraction at our disposal.
+    - The native event object that you get with regular DOM manipulation in React is actually encapsulated in a thing called the SyntheticEvent. Make sure you can attach a variety of events, such as `onclick`, `onchange`, `mouseenter`, etc., to HTML elements.
+- ### **Three Array Methods: .map(), .filter(), .reduce()**
+    - Suppose we have an array and want to iterate over it to display each element as a JSX element. In this situation, we may employ the .map() method. It permits us to change each item in our array in the manner we desire, using the inner function. An arrow function is especially handy in this scenario.
+    - The function .filter() allows us to filter certain elements out of our array. For example, if we wanted to remove all names of programmers that started with ‘J,’ we could do so with .filter().
+    - The critical thing to know is that both .map() and .filter() are just two versions of the .reduce() array method, which can turn array values into virtually any kind of data, including non-array values.
+- ### **Object Tricks**
+    - While the ReactJS developers have to be skilled with arrays when working with React, they’ll need to be particularly competent in accessing and modifying object attributes. Unlike arrays, objects are used for storing key-value pairs in an organized manner.
+    - Every time an object is created, you must give it a property name and value. A very simple formula is to list the property name if it is identical to the value.
+- ### **Variables and Scoping**
+    - The importance of knowing when and where you can access the data you require is crucial. Variables in JavaScript allow us to retain data in memory and access it later on within our applications.
+    - With ES6, we have new variables to store variables other than the traditional `var` keyword (such as `let` and `const`). You may follow the principle that `var` should be used unless you have a compelling reason not to, then default to `let` unless your linter tells you otherwise.
+- ### **Prototypal Inheritance and Object Creation**
+    - In many aspects, React adheres to a functional programming paradigm. Still, the ReactJS developer must work in the world of classes, so you must learn how object creation occurs in JavaScript. If you understand how JavaScript’s prototype chain works, you will understand inheritance as a result. Of course, classes don’t exist in JavaScript, but the class keyword is merely syntactic sugar on top of the `object prototype` chain.
+- ### **4. Git**
+    - There is no question that Git is the most popular toolset for app developers across a wide range of skills and specialties.
+    - Because React is a robust JavaScript library with reusable components, working with the Git repositories to share code and other components with other developers is important. React developers can post and update web app projects on various coding platforms such as GitHub, Gitlab, and BitBucket using Git.
+    - Through this toolkit, developers can perform a wide range of activities, including merging different strategies, handling conflicts, pushing and pulling code changes, etc. The following are some of the key Git skills that React developers should have:
+        - Merging strategies and branching them appropriately.
+        - Merging conflicts handling.
+        - Tracking modifications via comments.
+- ### 5. Node + npm
+    - You might wonder why the knowledge of Node is so important to being a React client-side developer.
+    - It is because, even though you can use React in any HTML document, there will likely be lots of other packages that allow you to extend the React library. The npm registry is where software developers go to get the software to help them build software. It sounds strange, but that’s all npm is a cloud storage facility for packages we call dependencies.
+    - The MERN (MongoDB, Express, React, Node) stack is a good example of a full-stack environment where front-end development is taken care of by React, while the back-end is handled by Node. It’s also important to note that developers can run React code directly in the Node environment, as well as the other way around, which improves their interoperability.
+- ### **6. Redux**
+    - One of the most significant drawbacks of React development is the asynchronicity of state updates. It’s critical for ReactJS developers to understand and utilize Redux because of this issue.
+    - Redux is a built-in state that controls and preserves the React library. Redux is not a data framework; it is an opinionated approach to working with data. The ideas behind Redux are similar to those of functional programming and immutability, but it is not a one-size-fits-all solution. Therefore, prior knowledge of basic React programming is essential.
+    - Developers use Redux’s scalability to accomplish state management. In addition, Redux helps developers create applications that behave consistently, are easy to test, and function similarly across environments by adopting functional programming and immutability principles.
+- ### **7. Fetch Data from Both GraphQL and Rest APIs**
+    - ReactJs is a front-end development framework and can be used to fetch data from the back-end in web app development. The most common method is to use a REST API to fetch data from the back end.
+    - However, GraphQL is the latest approach to fetch data from the back end. Having this ability will be of significant help to your ReactJS developers.
+    - Last but not least technical skill the ReactJS developers should have is hands-on experience in developing JS apps and deploying them on the cloud.
+- ## **Soft Skills**
+    - In addition to technical skills, a ReactJS developer should also have soft skills to perform better in a corporate environment.
+    - The following soft skills are a must for ReactJS developers:
+- ### **8. Excellent Communication**
+    - It’s crucial for React JS developers to be able to articulate technical ideas in a manner that other team members and customers can comprehend. Because everyone on the team might work on the same project, it is important that everyone understands what the team members are trying to convey.
+- ### **9. Problem-Solving**
+    - React developers rely on problem-solving skills when debugging applications, addressing technical issues, or solving other problems. A logical approach to finding solutions is crucial as they can also apply their problem-solving skills to overcoming roadblocks at work, such as collaborating with team members on projects or meeting deadlines.
+- ### **10. Team Player**
+    - Working on a React Native project is more than just coding, testing, and prototyping. It takes a team of people to complete the job. A developer must collaborate with others to finish the product. Being a good team player is important to accomplish agile team goals, where teamwork and cooperation are key.
+- ### **11. Creativity**
+    - When building applications that can alter based on user input or other factors, React developers rely on their creativity. To solve problems like UI design, they must think of novel solutions, and novelty requires a substantial degree of creativity.
+- ### **12. Accountability**
+    - An individual who is well versed in ReactJS commits mistakes to stop a project from being derailed. They solve issues, write excellent code, are transparent in their work, and support their colleagues when they make a mistake.
+- ## Conclusion
+    - Someone who knows JavaScript, ES6, HTML, CSS, JSX, Git, Node, and npm is needed to successfully deliver React JS projects. You should also look for someone who is good at communicating, solving problems, and working in a team.
+    - According to the job search site Indeed.com, over 10,000 ReactJS jobs are currently waiting to be filled. If you have trouble sourcing ReactJS developers, you can rely on our staff augmentation service so that you can focus on your core activities!

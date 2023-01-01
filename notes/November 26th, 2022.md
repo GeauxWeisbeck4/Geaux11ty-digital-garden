@@ -1,0 +1,42 @@
+- # To Do - Saturday
+    - {{[[DONE]]}} [[GeauxWeisbeck4.dev]]
+    - {{[[DONE]]}} AndrewWeisbeck.tech
+    - {{[[DONE]]}} [[Fireship.io]]
+- 
+- # Reflections
+    - Lisa and I had ALOT of sex today and it was fun. It is now time to get back to work however. Alot to do.
+- 
+- 
+- 
+- # Today's Bets
+    - Bet 1 - $245.17
+        - Kentucky & Louisville - Over 43
+        - Oregon & Oregon St -  Oregon +1
+        - Purdue & Indiana - Purdue -10.5
+        - Wake Forest & Duke - Over 67.5
+        - LSU -10
+    - Bet 2
+        - Iowa State & TCU - Over 45
+        - Oregon & Oregon State - Over 57
+        - Bama & Auburn - Over 50
+        - Pitt & Miami - Over 43
+        - Washington & Wazzou - Over 60 
+        - Kansas & K State - +11.5
+- 
+- # Pomodoro Timer
+    - {{[[POMO]]: 25}} GeauxWeiseck4.dev  
+        - This was a very non productive session. No need to fret though. I am enjoying trying out a new notes app!
+    - {{[[POMO]]: 25}} FireShip.io Session I - Stripe
+- 
+- {{[[kanban]]}}
+- To Do
+    - GeauxWeisbeck4.dev
+    - andrewweisbeck.tech
+    - Fireship.io
+    - MEAN SStack Dev Newsletter
+- In Progress
+    - Create Kanban
+- Done
+    - Wake Up
+- 
+- 

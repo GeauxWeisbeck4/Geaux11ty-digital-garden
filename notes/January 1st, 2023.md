@@ -1,0 +1,18 @@
+- # Happy New Year 1/1/23
+    - ## New Year, Same Problems
+        - I don't even know where to start with this year - fuck 2022 sucked so bad. Everything went wrong and then some. This year better be better, cause if it's worst, I can't handle it.
+        - Alright doing the export for the digital garden! Let's see how this all goes....
+- # To Do Today
+    - {{[[TODO]]}} [[Svelte Tutorial]]
+    - {{[[TODO]]}} [[Tar Heel Dev Studio]]
+    - {{[[TODO]]}} [[Design Systems]]
+    - {{[[TODO]]}} [[React Notes]]
+    - {{[[DONE]]}} [[Next.js Notes]]
+    - {{[[TODO]]}} [[Design Systems]]
+    - {{[[TODO]]}} [[Digital Garden]]
+    - {{[[TODO]]}} Organize and Plan Goals
+    - {{[[TODO]]}} [[100 Days of Projects]]
+        - {{[[TODO]]}} Day One: Dev Journal
+    - {{[[TODO]]}} [[JavaScript Patterns]]
+- # Resources, Readings, and Links
+    - [CSS for People Who Hate CSS | Paul C Pederson](https://paulcpederson.com/articles/css-for-people-who-hate-css/)

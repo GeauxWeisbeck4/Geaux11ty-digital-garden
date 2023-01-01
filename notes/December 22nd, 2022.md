@@ -1,0 +1,28 @@
+- # Thursday 12/22/22
+    - Well the interview has come and gone - I'm likely going to go without a job once again. Sitting here thinking about it, I'm kind of pissed off at all this bullshit trying to get a job. It's so stressful trying to get ready for each one of these interviews that comes every couple weeks and then I completely choke live. 
+        - Point - I had studied Angular for a week after also developing with Angular for a couple years now - not constantly but quite a bit, plus I had been using React mainly lately. I was literally cruising through building a MEAN Stack app while practicing, but then the interview comes and KABLAM! I fucking choke it up. It's debilitating and I'm sick of myself at this point - as well as all the interviews. I've been doing this too long to give up now, but at what point do you say "Ok maybe I need a bootcamp, even though I use JavaScript daily and build lots of shit". I dunno, life's so goddamn hard.
+        - Another point - we're behind on rent because all these interviewers want me to lay out how to build an app while talking to them and without any resources. I get it that you want the candidate to know everything, but I'm not great at memorizing and I have to constantly keep up notes, but I'm slowly getting better - not working on a team is making me a worse developer and more cut off of from society. PLUS I'M ABOUT TO BE FUCKING HOMELESS!! JUST GIVE ME A JOB, I'M SICK OF THIS SHIT. I PROMISE I CAN DO THE JOB AND THEN SOME.
+            - Every interviewer has their own style and asks things differently - I'm supposed to be prepared for all of that? Well I tried this time as much as I could and it didn't matter like usual. Quit judging me based off of one interaction please.
+- # To Do Today
+    - {{[[TODO]]}} [[SSG Challenge]]
+    - {{[[TODO]]}} [[CMS Challenge]]
+    - {{[[TODO]]}} Record for [[Mean Stack Developer Paid Newsletter]]
+    - {{[[TODO]]}} Write [[MEAN Stack Developer]]
+    - {{[[TODO]]}} Blog Post - [[Content Calendar]]
+        - {{[[TODO]]}} [[Medium]]
+    - {{[[DONE]]}} [[Django Project]]
+    - {{[[TODO]]}} [[MEAN Notes]]
+    - {{[[TODO]]}} [[Roadmap.sh]]
+    - {{[[TODO]]}} Clean up Graph and combine with Logseq for [[Digital Garden]]
+    - {{[[TODO]]}} [[Tar Heel Dev Studio]]
+    - {{[[TODO]]}} Start writing Book
+- # Resources, Readings, Links, etc. #[[Awesome Stuff]]
+    - https://pagedraw.io/
+    - [The ultimate JAMstack tools showcase | JAMstack tools](https://jamstacktools.org/)
+    - https://paperbits.io/
+    - https://www.cloudbees.com/
+    - [Forge - Simple static hosting for html sites and javascript apps (getforge.com)](https://getforge.com/)
+- # Observations
+    - Interviewers always say they'll help you get to the answer, but they don't - they love to sit and watch you struggle.
+        - I always need that tiny little push - today I just needed to get past the API part, because I knew what he was talking about, the words just didn't hit my tongue. Fucking fuck.
+- # Study Links

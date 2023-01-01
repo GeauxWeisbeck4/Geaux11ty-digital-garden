@@ -1,0 +1,24 @@
+- __Go to Settings -> Readwise Random Quote and enter your token. Get your token [here](https://readwise.io/access_token).__
+- # Saturday, December 31st, 2022
+    - Well it's the last day of 2022 and I'm going to be honest, I thought this day would never fucking come. Look at how shitty this year has been'
+        - Unemployed all year
+        - Getting evicted from two apartments
+        - Lisa cheated on me
+        - Spent half the year chasing and sick
+        - Broke iMac
+        - Haven't talked to my mom
+        - A lot more than just that
+    - This year was just fucking awful. I hope I don't stay stuck next year. Please ol great force of the world, help my life get better - I'm begging you.
+- # To Do Today
+    - {{[[TODO]]}} Fish Tables!
+    - {{[[TODO]]}} Git Kraken
+    - {{[[TODO]]}} [[Digital Garden]]
+    - {{[[TODO]]}} [[Tar Heel Dev Studio]]
+    - {{[[TODO]]}} [[Content Calendar]]
+    - {{[[TODO]]}} [[JavaScript Book]]
+    - {{[[TODO]]}} [[Next.js Notes]]
+    - {{[[TODO]]}} [[Book DB]]
+    - {{[[TODO]]}} [[Duck DB]]
+    - {{[[TODO]]}} [[1000 Commits]]
+    - 
+    - 

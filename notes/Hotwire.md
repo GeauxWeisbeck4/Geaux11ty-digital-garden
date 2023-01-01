@@ -1,0 +1,18 @@
+- HTML over the wire
+    - [HTML Over The Wire | Hotwire (hotwired.dev)](https://hotwired.dev/)
+- ## Turbo 
+    - At the heart of Hotwire is TURBO 
+        - Turbo Frames - can add interactivity here and only change the frame while rest of page keeps its state
+        - Speeds up page changes and form submissions by dividing complex pages into components and stream partial page updates over WebSocket. No javascript and perfect for native hybrid apps for iOS and Android
+        - __Turbo Drive__ accelerates links and form submissions by negating the need for full page reloads.
+        - __Turbo Frames__ decompose pages into independent contexts, which scope navigation and can be lazily loaded.
+        - __Turbo Streams__ deliver page changes over WebSocket, SSE or in response to form submissions using just HTML and a set of CRUD-like actions.
+        - __Turbo Native__ lets your [majestic monolith](https://m.signalvnoise.com/the-majestic-monolith/) form the center of your native iOS and Android apps, with seamless transitions between web and native sections.
+        - [hotwired/turbo: The speed of a single-page web application without having to write any JavaScript (github.com)](https://github.com/hotwired/turbo)
+        - [Turbo Handbook (hotwired.dev)](https://turbo.hotwired.dev/handbook/introduction)
+- ## Stimulus
+    - While Turbo usually takes care of at least 80% of the interactivity that traditionally would have required JavaScript, there are still cases where a dash of custom code is required. Stimulus makes this easy with a HTML-centric approach to state and wiring.
+    - [hotwired/stimulus: A modest JavaScript framework for the HTML you already have (github.com)](https://github.com/hotwired/stimulus)
+    - [Stimulus Handbook (hotwired.dev)](https://stimulus.hotwired.dev/handbook/introduction)
+- ## Strada
+    - Standardizes the way that web and native parts of a mobile hybrid application talk to each other via HTML bridge attributes. This makes it easy to progressively level-up web interactions with native replacements.

@@ -1,0 +1,7 @@
+- # Go Daddy
+    - disruptivecreationshop.com
+    - jambalayastack.cloud
+    - jambalayastack.com
+    - jamstanza.com
+    - voodooscript.com
+    - 

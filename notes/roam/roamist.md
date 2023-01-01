@@ -1,0 +1,10 @@
+- workflows
+    - #SmartBlock Roamist - quick capture
+        - <%ROAMIST_QUICK_CAPTURE%>
+    - #SmartBlock Roamist - sync completed
+        - <%NOBLOCKOUTPUT%><%ROAMIST_SYNC_COMPLETED%>
+    - #SmartBlock Roamist - sync completed (DNP)
+        - <%NOBLOCKOUTPUT%><%ROAMIST_SYNC_COMPLETED_DNP%>
+    - #SmartBlock Roamist - complete task
+        - <%ROAMIST_COMPLETE_TASK%>
+- workflows

@@ -1,0 +1,3 @@
+- [How to use Conditional Rendering in React | refine](https://refine.dev/blog/react-conditional-rendering/)
+- Dynamic rendering of UI components with JSX based n use
+- Devs use React to define a number of distinct functional components and can benefit in a variety of areas including user personalization, defining authentication roles, and implementing authorization. 

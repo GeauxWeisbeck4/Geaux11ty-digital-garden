@@ -1,0 +1,69 @@
+- # Friday December 16th, 2022 
+    - Court today - yuck. Let's see if I can get them to have any empathy for our situation and shitty fucking year. Excuse my language, but Jesus-Fuckin-Christ this year has been FUCKING FUCKED THE FUCK UP! SORRY - sorry for my language.
+        - I didn't mean to use an injunction.
+    - ## 20:15 PM 
+        - So today just sucked. Apparently you have no rights as a tenant anymore. It didn't even matter that they didn't take my rent payment, the judge just said I better figure my shit out in 10 days - that's totally fucked. We'll see what I can pull together I guess.
+        - Time for Tar Heel Dev Studio.
+- # To DO Today
+    - {{[[TODO]]}} [[Productivity Notes]]
+    - {{[[TODO]]}} Altogic
+    - {{[[TODO]]}} [[Tar Heel Dev Studio]]
+        - Next Django
+        - {{[[TODO]]}} [[LinkedIn Sales]]
+    - {{[[TODO]]}} [[Mean Stack Developer Paid Newsletter]]
+        - {{[[TODO]]}} [[Refine.dev]] Tutorial 
+        - {{[[TODO]]}} tRPC 
+        - {{[[TODO]]}} Ter 
+        - {{[[TODO]]}} Enhance
+        - {{[[TODO]]}} Lume
+        - {{[[TODO]]}}  Plan double Paid newsletter
+    - {{[[TODO]]}} [[MEAN Stack Developer]]
+    - {{[[TODO]]}} Call Legal Aid
+- ### Nice to get done if possible:
+    - {{[[TODO]]}} [[Pomodoro Timer]]
+    - {{[[TODO]]}} [[Sell Templates]]
+        - {{[[TODO]]}} [[Tailwind Templates]]
+        - {{[[TODO]]}} [[Notion Templates]]
+            - My 13 week goal book is a perfect outline
+        - {{[[TODO]]}} [[Website & Mobile App Templates]]
+    - {{[[TODO]]}} [[Singlestore Ecommerce App]]
+    - {{[[TODO]]}} [[Create Framework]]
+    - {{[[TODO]]}} [[30 Days of Projects]]
+    - {{[[TODO]]}}  Fill in empty spots on graph
+- 
+- # Awesome Links & Other Shit
+    - [Bruce Lawson's personal site  : Reading List](https://brucelawson.co.uk/2015/reading-list-136/)
+    - [JavaScript (JS) - 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗢𝗡𝗟𝗜𝗡𝗘 𝗧𝗢𝗢𝗟𝗦 𝗔𝗡𝗗 𝗥𝗘𝗦𝗢𝗨𝗥𝗖𝗘𝗦 (html-css-js.com)](https://html-css-js.com/js/)
+    - [The JavaScript Beginner's Handbook (2020 Edition) (freecodecamp.org)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c)
+    - https://htmlcheatsheet.com/
+    - [CSS3 . Info - All you ever needed to know about CSS3](https://www.css3.info/)
+    - [Invent with Python](https://inventwithpython.com/invent4thed/)
+    - [Schedulers (automatetheboringstuff.com)](https://automatetheboringstuff.com/schedulers.html)
+        - ## https://www.thegeekstuff.com/ [[Geek Stuff]]
+        - [Linux Crontab: 15 Awesome Cron Job Examples (thegeekstuff.com)](https://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/comment-page-1/)
+        - [3 Steps to Perform SSH Login Without Password Using ssh-keygen & ssh-copy-id (thegeekstuff.com)](https://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/)
+        - [OpenSSH (thegeekstuff.com)](https://www.thegeekstuff.com/category/openssh-2/)
+        - [50 Most Frequently Used UNIX / Linux Commands (With Examples) (thegeekstuff.com)](https://www.thegeekstuff.com/2010/11/50-linux-commands/)
+        - [Best of the Blog (thegeekstuff.com)](https://www.thegeekstuff.com/best-of-the-blog/)
+        - [15 Practical Grep Command Examples In Linux / UNIX (thegeekstuff.com)](https://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/)
+    - [GRID: A simple visual cheatsheet for CSS Grid Layout (malven.co)](https://grid.malven.co/)
+    - [The Recursive Book of Recursion (inventwithpython.com)](https://inventwithpython.com/recursion/)
+    - [Making Games with Python & Pygame (inventwithpython.com)](https://inventwithpython.com/pygame/)
+    - [Writing Bots to Play Zombie Dice - The Invent with Python Blog](https://inventwithpython.com/blog/2018/10/17/writing-bots-to-play-zombie-dice/)
+    - https://www.onlinegdb.com/
+    - https://trinket.io/
+    - [Structure, Chaos, and Creative Constraints | Toptal](https://www.toptal.com/product-managers/product-consultant/daniel-hatton-creative-constraints)
+    - [Democratizing Research to Innovate and Refine Digital Products | Toptal](https://www.toptal.com/designers/user-research/democratizing-research)
+    - [4 Keys To Remarkable Brand Storytelling | Toptal](https://www.toptal.com/designers/brand/brand-storytelling)
+    - [Trinket: An Hour of Python](https://hourofpython.com/)
+    - [Django - Useful Resources (tutorialspoint.com)](https://www.tutorialspoint.com/django/django_useful_resources.htm)
+    - [Developers Best Practices Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/developers_best_practices/index.htm)
+    - https://broken-links.com/
+    - https://www.programiz.com/
+    - [JavaScript Kit- Your comprehensive JavaScript, DHTML, CSS, and Ajax stop](http://www.javascriptkit.com/)
+    - [Dynamic Drive CSS Library- Practical CSS codes and examples](http://www.dynamicdrive.com/style/)
+    - [Dynamic Drive DHTML(dynamic html) & JavaScript code library](http://www.dynamicdrive.com/)
+    - https://www.guru99.com/
+    - [JavaScript Garden (shamansir.github.io)](https://shamansir.github.io/JavaScript-Garden/)
+    - [MEAN.JS - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js (meanjs.org)](https://meanjs.org/)
+    - 

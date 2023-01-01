@@ -1,0 +1,17 @@
+- # Sunday, 12/04/2022 - 02:29AM
+    - I'm still up and at it y'all - I'll never quit! Muahahahahaha! I'm so evil hahahahahahaha!
+    - Not really, I think I might be going crazy though. Will you still read me if I start going crazy? God I hope so...
+    - So while I'm going to really try and get a lot done coding today, both learning and finishing up some projects, I really need to focus on creating content and templates. I also need to create video tutorials, my online course, and my newsletter and podcast today. Those things all make more money than coding does. So that's the goal!
+- # To Do Today
+    - # {{[[TODO]]}} [[GeauxWeisbeck4.dev]] For once and for all
+    - {{[[TODO]]}} [[Monetize Shit]]
+    - {{[[TODO]]}} [[Digital garden]]
+    - {{[[TODO]]}} AndrewWeisbeck.tech
+    - {{[[TODO]]}}  [[Mean Stack Developer Paid Newsletter]]
+    - Apply for jobs and check email
+    - 
+- # Other: Links and Such
+    - Avia - Beat maker you can sell
+- # Learn/Look Up
+    - Memoization 
+    - 
